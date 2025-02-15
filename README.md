@@ -1,4 +1,5 @@
 # Python 3 AI Trader Predictor
+A trading AI assistant to help with your trades.
 
 ## Installation
 1. Clone repo
