@@ -16,7 +16,7 @@ source /venvbin/activate
 ```
 4. Install dependencies
 ```
-pip install -r dependencies.txt
+pip3 install -r dependencies.txt
 ```
 5. Run program
 ```
